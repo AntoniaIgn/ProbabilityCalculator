@@ -1,0 +1,14 @@
+C:\Дипломна работа\ProbabilityCalculator\bin\Debug\net8.0\ProbabilityCalculator.exe
+C:\Дипломна работа\ProbabilityCalculator\bin\Debug\net8.0\ProbabilityCalculator.deps.json
+C:\Дипломна работа\ProbabilityCalculator\bin\Debug\net8.0\ProbabilityCalculator.runtimeconfig.json
+C:\Дипломна работа\ProbabilityCalculator\bin\Debug\net8.0\ProbabilityCalculator.dll
+C:\Дипломна работа\ProbabilityCalculator\bin\Debug\net8.0\ProbabilityCalculator.pdb
+C:\Дипломна работа\ProbabilityCalculator\obj\Debug\net8.0\ProbabilityCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Дипломна работа\ProbabilityCalculator\obj\Debug\net8.0\ProbabilityCalculator.AssemblyInfoInputs.cache
+C:\Дипломна работа\ProbabilityCalculator\obj\Debug\net8.0\ProbabilityCalculator.AssemblyInfo.cs
+C:\Дипломна работа\ProbabilityCalculator\obj\Debug\net8.0\ProbabilityCalculator.csproj.CoreCompileInputs.cache
+C:\Дипломна работа\ProbabilityCalculator\obj\Debug\net8.0\ProbabilityCalculator.dll
+C:\Дипломна работа\ProbabilityCalculator\obj\Debug\net8.0\refint\ProbabilityCalculator.dll
+C:\Дипломна работа\ProbabilityCalculator\obj\Debug\net8.0\ProbabilityCalculator.pdb
+C:\Дипломна работа\ProbabilityCalculator\obj\Debug\net8.0\ProbabilityCalculator.genruntimeconfig.cache
+C:\Дипломна работа\ProbabilityCalculator\obj\Debug\net8.0\ref\ProbabilityCalculator.dll
